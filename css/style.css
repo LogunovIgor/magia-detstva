@@ -340,12 +340,34 @@ body {
     border: 2px solid #e31e24;
 }
 
+.menu-mobile-container-footer-item-href {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
 .menu-vk-item {
     background-image: url('../images/social-netwoks/vk_white.png');
 }
 
 .menu-vk-item:hover {
     background-image: url('../images/social-netwoks/vk_red.png');
+}
+
+.menu-fb-item {
+    background-image: url('../images/social-netwoks/fb_white.png');
+}
+
+.menu-fb-item:hover {
+    background-image: url('../images/social-netwoks/fb_red.png');
+}
+
+.menu-insta-item {
+    background-image: url('../images/social-netwoks/insta_white.png');
+}
+
+.menu-insta-item:hover {
+    background-image: url('../images/social-netwoks/insta_red.png');
 }
 
 
